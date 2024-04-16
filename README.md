@@ -3,7 +3,7 @@
 ***
 
 <div align="center">
-### 📈 GitHub stats
+####📈 GitHub stats
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ***
 
 <div align="center">
-### 📝 Algorithm
+####📝 Algorithm
 </div>
 
 <div align="center">
