@@ -2,7 +2,9 @@
 
 ***
 
-#### 📈 GitHub stats
+<div align="center">
+### 📈 GitHub stats
+</div>
 
 <div align="center">
   
@@ -12,7 +14,9 @@
 
 ***
 
-#### 📝 Algorithm
+<div align="center">
+### 📝 Algorithm
+</div>
 
 <div align="center">
   
