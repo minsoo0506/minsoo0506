@@ -1,6 +1,5 @@
 # Park Min Soo 🔥
 
-***
 
 <div align="center">
 
