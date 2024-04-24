@@ -38,6 +38,17 @@
 
 <div align="center">
 
+### 🧐 Studying
+
+<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+
+</div>
+
+<div align="center">
+
 ### 📝 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506)](https://solved.ac/mspark010506/)
