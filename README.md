@@ -41,6 +41,15 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
+### 🐰 Git Animals
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsoo0506&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minsoo0506"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 <div align="center">
@@ -61,12 +70,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
-<div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsoo0506&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/minsoo0506"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
