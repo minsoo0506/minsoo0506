@@ -53,7 +53,7 @@
 
 ### 🥇 Stat Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minsoo0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/api?username=minsoo0506&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
