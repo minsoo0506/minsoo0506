@@ -63,11 +63,11 @@
 
 | Period | Experience | Key Activities |
 |:--- |:--- |:--- |
-| **2020.03** | **University Admission** | • Started Bachelor's degree in Computer Engineering. |
-| **2023.11 - 2024.07** | **Backend Bootcamp**<br>@ Zero-Base | • Developed **Real-time Parking Information** & **Store Table Reservation** services.<br>• Built a **Location-based Public Wi-Fi Information** service.<br>• Developed a One-day Class Platform. |
-| **2024.12 - 2026.03** | **Backend Mentor**<br>@ MJSEC (White-Hat Hacking & Security Club) | • Served as **Backend Mentor** for the development team.<br>• Developed **CTF Platform** & **Club LMS**.<br>• Conducted in-depth studies on **Web Hacking** & **Reverse Engineering**. |
-| **2025.04 - 2026.02** | **Researcher**<br>@ Defense Security Lab | • Published & Presented a paper on **MCP Vulnerabilities** at the Korea Institute of Military Science and Technology.<br>• **LIG Nex1 Project**: Verified the impact of Anti-Tampering technology on weapon systems.<br>• Developed **CMMC Compliance Tool** for security certification. |
-| **2026.03 - Present** | **Software Engineer Intern**<br>@ Melcon (Semiconductor) | • Developing Core SW for Semiconductor systems.<br>• Gaining hands-on industry experience. |
+| **2020.03** | **University Admission** | • B.S. in Computer Engineering. |
+| **2023.11 - 2024.07** | **Backend Bootcamp**<br>@ Zero-Base | • **Real-time Parking Information** service.<br>• **Store Table Reservation** system.<br>• **Location-based Public Wi-Fi** information service.<br>• One-day Class Platform. |
+| **2024.12 - 2026.03** | **Backend Mentor**<br>@ MJSEC (White-Hat Hacking & Security Club) | • **Backend Mentor** for the development team.<br>• **CTF Platform** & **Club LMS** development.<br>• In-depth studies on **Web Hacking** & **Reverse Engineering**. |
+| **2025.04 - 2026.02** | **Researcher**<br>@ Defense Security Lab | • Paper on **MCP Vulnerabilities**: Published & Presented at **The Korean Institute of Defense Technology**.<br>• **LIG Nex1 Project**: Anti-Tampering impact verification on weapon systems.<br>• **CMMC Compliance Tool** for security certification. |
+| **2026.03 - Present** | **Software Engineer Intern**<br>@ Melcon (Semiconductor) | • **Core SW Development** for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing. |
 
 <br>
 
