@@ -50,6 +50,29 @@
 
 </div>
 
+<br>
+
+### My development process is driven by a relentless curiosity about how things work under the hood.
+
+<p align="center">
+  <font size="4">
+    By asking <strong>"Why?"</strong> at every step, I identify potential security vulnerabilities and performance bottlenecks before they even occur.<br>
+    I don't just write code; I engineer trust by understanding the fundamental "Why" behind every line.
+  </font>
+</p>
+
+### 🗓️ Career Timeline & Experience
+
+| Period | Experience | Key Activities |
+|:--- |:--- |:--- |
+| **2020.03** | **University Admission** | • Started Bachelor's degree in Computer Engineering. |
+| **2023.11 - 2024.05** | **Backend Bootcamp**<br>@ Zero-Base | • Developed Real-time Parking Information Service.<br>• Built a One-day Class Platform. |
+| **2024.12 - 2025.03** | **Backend Mentor**<br>@ MJSEC (Security Club) | • Served as Backend Mentor for the dev team.<br>• Developed CTF Platform & Club LMS. |
+| **2025.04 - 2025.12** | **Research Assistant**<br>@ Defense Security Lab | • Vulnerability Analysis (MCP) & LIG Nex1 Project.<br>• Developed CMMC Compliance Tool. |
+| **2026.01 - Present** | **Software Engineer Intern**<br>@ Melcon (Semiconductor) | • Developing Core SW for Semiconductor systems.<br>• Gaining hands-on industry experience. |
+
+<br>
+
 ### 🐰 Git Animals
 <div align="center">
 <a href="https://www.gitanimals.org/">
@@ -61,20 +84,7 @@
       />
     </a>
 </div>
-
 <br>
-
-
-### My development process is driven by a relentless curiosity about how things work under the hood.
-
-<p align="center">
-  <font size="4">
-    By asking <strong>"Why?"</strong> at every step, I identify potential security vulnerabilities and performance bottlenecks before they even occur.<br>
-    I don't just write code; I engineer trust by understanding the fundamental "Why" behind every line.
-  </font>
-</p>
-
-<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
