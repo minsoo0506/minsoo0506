@@ -65,23 +65,10 @@
 |:--- |:--- |:--- |
 | **2020.03** | **University Admission** | • B.S. in Computer Engineering. |
 | **2023.11 - 2024.07** | **Backend Bootcamp**<br>@ Zero-Base | • **Real-time Parking Information** service.<br>• **Store Table Reservation** system.<br>• **Location-based Public Wi-Fi** information service.<br>• One-day Class Platform. |
-| **2024.12 - 2026.03** | **Backend Mentor**<br>@ MJSEC (White-Hat Hacking & Security Club) | • **Backend Mentor** for the development team.<br>• **CTF Platform** & **Club LMS** development.<br>• In-depth studies on **Web Hacking** & **Reverse Engineering**. |
+| **2024.12 - 2026.03** | **Backend Mentor**<br>@ MJSEC (White-Hat Hacking & Security Club) | • **Backend Mentor** for the development team.<br>• **CTF Platform** development.<br>• **LMS for Assignment Management** development.<br>• In-depth studies on **Web Hacking** & **Reverse Engineering**. |
 | **2025.04 - 2026.02** | **Researcher**<br>@ Defense Security Lab | • Paper on **MCP Vulnerabilities**: Published & Presented at **The Korean Institute of Defense Technology**.<br>• **LIG Nex1 Project**: Anti-Tampering impact verification on weapon systems.<br>• **CMMC Compliance Tool** for security certification. |
 | **2026.03 - Present** | **Software Engineer Intern**<br>@ Melcon (Semiconductor) | • **Core SW Development** for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing. |
 
-<br>
-
-### 🐰 Git Animals
-<div align="center">
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/775577520078916569/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
-</div>
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
