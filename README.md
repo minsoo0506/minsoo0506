@@ -1,5 +1,11 @@
 
-![cool background gif](https://github.com/user-attachments/assets/96c91f3a-9800-469b-8fd9-5112007bb7aa)
+<div style="position: relative; width: 100%; max-width: 600px; margin: 0 auto;">
+  <img src="https://github.com/user-attachments/assets/72dfe1e4-fa46-4e4a-9ec4-c594c8aec7a2" alt="Gif" style="width: 100%; height: auto; display: block;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 2em; font-weight: bold; text-align: center; white-space: nowrap;">
+    Hi there! 👋 I'm Minsoo Park!
+  </div>
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=4000&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+there!+👋+I'm+Minsoo+Park!+🔥)](https://git.io/typing-svg)
 
