@@ -51,10 +51,7 @@
 
 <div align="center">
 
-### 🥇 Stat Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo0506)](https://github.com/minsoo0506/github-readme-stats)
 
 ### 🐰 Git Animals
 <div align="center">
