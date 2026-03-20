@@ -62,15 +62,22 @@
     </a>
 </div>
 
+<br><br><br>
+
 <p align="center">
-  <strong><em>My development process is driven by a relentless curiosity about how things work under the hood.</em></strong>
+  <font size="6">
+    <strong><em>My development process is driven by a relentless curiosity about how things work under the hood.</em></strong>
+  </font>
 </p>
 
 <p align="center">
-  By asking <strong>"Why?"</strong> at every step, I identify potential security vulnerabilities and performance bottlenecks before they even occur.<br>
-  I don't just write code; I engineer trust by understanding the fundamental "Why" behind every line.
+  <font size="4">
+    By asking <strong>"Why?"</strong> at every step, I identify potential security vulnerabilities and performance bottlenecks before they even occur.<br>
+    I don't just write code; I engineer trust by understanding the fundamental "Why" behind every line.
+  </font>
 </p>
-<br>
+
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
