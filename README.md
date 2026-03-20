@@ -51,7 +51,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo0506)](https://github.com/minsoo0506/github-readme-stats)
+### 🥇 Git Trophy
+
+[![trophy](https://github-profile-trophy-reiyua-mirror.vercel.app/?username=minsoo0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🐰 Git Animals
 <div align="center">
