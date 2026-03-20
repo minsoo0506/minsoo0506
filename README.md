@@ -1,7 +1,7 @@
 ![2825710](https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=4000&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Driven by Logic, Inspired by Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=4000&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Driven+by+Logic,+Inspired+by+Future)](https://git.io/typing-svg)
 
 <div>
 
