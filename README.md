@@ -64,9 +64,8 @@
 
 <br><br><br>
 
-<p align="center">
+
 ### My development process is driven by a relentless curiosity about how things work under the hood.
-</p>
 
 <p align="center">
   <font size="4">
