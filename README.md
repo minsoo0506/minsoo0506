@@ -62,7 +62,7 @@
     </a>
 </div>
 
-<br><br><br>
+<br>
 
 
 ### My development process is driven by a relentless curiosity about how things work under the hood.
