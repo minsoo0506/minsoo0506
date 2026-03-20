@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=50&animation=twinkling&text-color=black)
+![cool background gif](https://github.com/user-attachments/assets/96c91f3a-9800-469b-8fd9-5112007bb7aa)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration=4000&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+there!+👋+I'm+Minsoo+Park!+🔥)](https://git.io/typing-svg)
 
 <div>
