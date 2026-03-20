@@ -50,12 +50,6 @@
 
 </div>
 
-<div align="center">
-
-### 🥇 Git Trophy
-
-[![trophy](https://github-profile-trophy-reiyua-mirror.vercel.app/?username=minsoo0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🐰 Git Animals
 <div align="center">
 <a href="https://www.gitanimals.org/">
@@ -68,5 +62,11 @@
     </a>
 </div>
 
+<div align="center">
+      My development process is driven by a relentless curiosity about how things work under the hood. By asking "Why?" at every step, I identify potential security vulnerabilities and performance bottlenecks before they even occur. I don't just write code; I engineer trust by understanding the fundamental "Why" behind every line.
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
+
 
