@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="600" alt="Pixel Art Header" />
+![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb)
 
   <br>
 
