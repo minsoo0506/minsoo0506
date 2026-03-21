@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="400" height="400" alt="Pixel Art Header" />
+  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="600" height="400" alt="Pixel Art Header" />
 
   <br>
 
