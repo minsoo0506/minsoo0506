@@ -2,7 +2,7 @@
 
   <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="850" height="500" alt="Pixel Art Header" />
 
-  <br>
+  <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=600&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
 
@@ -68,7 +68,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506" alt="Solved.ac Profile" />
   </a>
 
-  <br>
+  <br><br>
 
   <h3>🧑‍💻 Philosophy: Engineering with Curiosity</h3>
   <p><strong><font size="5">"Driven by Logic, Guided by 'Why?'"</font></strong></p>
