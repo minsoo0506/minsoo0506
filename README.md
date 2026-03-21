@@ -1,5 +1,6 @@
 ![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/1d627a87-3d6d-41f4-9fb6-70d8f4317492)
 
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="850" />
