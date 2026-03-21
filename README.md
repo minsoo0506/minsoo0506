@@ -1,22 +1,22 @@
 <div align="center">
 
-![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb)
+  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="500" alt="New Pixel Art Header" />
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=32&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=600&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=36&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=500&height=80&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
 
   <br><br>
 
-  <table width="600">
+  <table width="800">
     <thead>
       <tr>
-        <th colspan="2">🛠️ Technical Skills & Tools</th>
+        <th colspan="2" height="40">🛠️ Technical Skills & Tools</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td width="30%" align="center"><strong>Languages</strong></td>
+        <td width="200" align="center" height="50"><strong>Languages</strong></td>
         <td>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -26,7 +26,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center"><strong>Frameworks</strong></td>
+        <td align="center" height="50"><strong>Frameworks</strong></td>
         <td>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
           <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
@@ -34,14 +34,14 @@
         </td>
       </tr>
       <tr>
-        <td align="center"><strong>Databases</strong></td>
+        <td align="center" height="50"><strong>Databases</strong></td>
         <td>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         </td>
       </tr>
       <tr>
-        <td align="center"><strong>Tools</strong></td>
+        <td align="center" height="50"><strong>Tools</strong></td>
         <td>
           <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -49,20 +49,13 @@
         </td>
       </tr>
       <tr>
-        <td align="center"><strong>Infrastructure & ETC</strong></td>
+        <td align="center" height="50"><strong>Infrastructure & ETC</strong></td>
         <td>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
           <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-</div>
-<br>
+          <img src="
 
 <div align="center">
 
@@ -71,6 +64,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506)](https://solved.ac/mspark010506/)
 
 </div>
+
+<div align="center">
 
 ### 🧑‍💻 Philosophy: Engineering with Curiosity
 
@@ -86,6 +81,10 @@
 
 <br>
 
+</div>
+
+<div align="center">
+
 ### 🗓️ Career Timeline & Experience
 
 | Period | Experience | Key Activities |
@@ -96,6 +95,6 @@
 | **2025.04 - 2026.02** | **Researcher**<br>@ Defense Security Lab | • Paper on **MCP Vulnerabilities**: Published & Presented at **The Korean Institute of Defense Technology**.<br>• **LIG Nex1 Project**: Anti-Tampering impact verification on weapon systems.<br>• **CMMC Compliance Tool** for security certification. |
 | **2026.03 - Present** | **Software Engineer Intern**<br>@ Melcon (Semiconductor) | • **Core SW Development** for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing. |
 
-<br>
+</div>
 
 
