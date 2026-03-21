@@ -1,13 +1,14 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="800" height="500" alt="Pixel Art Header" />
-
-
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=500&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="500" height="500" alt="Pixel Art Header" />
 
   <br>
 
-  <table width="900">
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=600&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
+
+  <br><br>
+
+  <table width="800">
     <thead>
       <tr>
         <th colspan="2" height="40">🛠️ Technical Skills & Tools</th>
@@ -15,7 +16,7 @@
     </thead>
     <tbody>
       <tr>
-        <td width="220" align="center" height="50"><strong>Languages</strong></td>
+        <td width="150" align="center" height="45"><strong>Languages</strong></td>
         <td>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -25,7 +26,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center" height="50"><strong>Frameworks</strong></td>
+        <td align="center" height="45"><strong>Frameworks</strong></td>
         <td>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
           <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
@@ -33,14 +34,14 @@
         </td>
       </tr>
       <tr>
-        <td align="center" height="50"><strong>Databases</strong></td>
+        <td align="center" height="45"><strong>Databases</strong></td>
         <td>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         </td>
       </tr>
       <tr>
-        <td align="center" height="50"><strong>Tools</strong></td>
+        <td align="center" height="45"><strong>Tools</strong></td>
         <td>
           <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -48,7 +49,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center" height="50"><strong>Infrastructure & ETC</strong></td>
+        <td align="center" height="45"><strong>Infra & ETC</strong></td>
         <td>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -60,71 +61,69 @@
     </tbody>
   </table>
 
-</div>
+  <br><br>
 
+  <h3>📝 Algorithm</h3>
+  <a href="https://solved.ac/mspark010506">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506" alt="Solved.ac Profile" />
+  </a>
 
+  <br><br>
 
-<div align="center">
+  <h3>🧑‍💻 Philosophy: Engineering with Curiosity</h3>
+  <p><strong><font size="5">"Driven by Logic, Guided by 'Why?'"</font></strong></p>
 
-### 📝 Algorithm
+  <table width="800" border="0">
+    <tr>
+      <td>
+        <blockquote>
+          My development process is deeply rooted in a <b>relentless curiosity</b> about the internal mechanics of systems. I believe that high-quality backend engineering isn't just about making things work—it's about understanding precisely <i>how</i> and <i>why</i> they work under the hood.<br><br>
+          By consistently questioning standard implementations, I actively identify potential <b>security vulnerabilities</b> and <b>performance bottlenecks</b> in the architectural stage, before they can ever manifest in production. For me, coding is more than just implementing features; it is an act of <b>engineering trust</b> and reliability through a fundamental grasp of every logic gate and data flow.<br><br>
+          Whether I am optimizing a database query or hardening an authentication protocol, my goal remains the same: to build digital backbones that are as <b>secure as they are scalable</b>, fueled by a passion for technical depth and logical perfection.
+        </blockquote>
+      </td>
+    </tr>
+  </table>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506)](https://solved.ac/mspark010506/)
+  <br><br>
 
+  <h3>🗓️ Career Timeline & Experience</h3>
 
-### 🧑‍💻 Philosophy: Engineering with Curiosity
-
-<p align="center">
-  <font size="5"><strong>"Driven by Logic, Guided by 'Why?'"</strong></font>
-</p>
-
-> My development process is deeply rooted in a **relentless curiosity** about the internal mechanics of systems. I believe that high-quality backend engineering isn't just about making things work—it's about understanding precisely *how* and *why* they work under the hood. 
-> 
-> By consistently questioning standard implementations, I actively identify potential **security vulnerabilities** and **performance bottlenecks** in the architectural stage, before they can ever manifest in production. For me, coding is more than just implementing features; it is an act of **engineering trust** and reliability through a fundamental grasp of every logic gate and data flow.
-> 
-> Whether I am optimizing a database query or hardening an authentication protocol, my goal remains the same: to build digital backbones that are as **secure as they are scalable**, fueled by a passion for technical depth and logical perfection.
-
-<br><br>
-
-### 🗓️ Career Timeline & Experience
-
-<table width="900">
-<thead>
-  <tr>
-    <th width="200">Period</th>
-    <th width="250">Experience</th>
-    <th>Key Activities</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><strong>2020.03</strong></td>
-    <td><strong>University Admission</strong></td>
-    <td>• B.S. in Computer Engineering.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2023.11 - 2024.07</strong></td>
-    <td><strong>Backend Bootcamp</strong><br>@ Zero-Base</td>
-    <td>• **Real-time Parking Information** service.<br>• **Store Table Reservation** system.<br>• **Location-based Public Wi-Fi** information service.<br>• One-day Class Platform.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2024.12 - 2026.03</strong></td>
-    <td><strong>White-Hat Hacking & Security Club</strong><br>@ MJSEC</td>
-    <td>• **Backend Mentor** for the development team.<br>• **CTF Platform** development.<br>• **LMS for Assignment Management** development.<br>• In-depth studies on **Web Hacking** & **Reverse Engineering**.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2025.04 - 2026.02</strong></td>
-    <td><strong>Researcher</strong><br>@ Defense Security Lab</td>
-    <td>• Paper on **MCP Vulnerabilities**: Published & Presented at **The Korean Institute of Defense Technology**.<br>• **LIG Nex1 Project**: Anti-Tampering impact verification on weapon systems.<br>• **CMMC Compliance Tool** for security certification.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2026.03 - Present</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2026.03 - Present</strong></td>
-    <td><strong>Software Engineer Intern</strong><br>@ Melcon (Semiconductor)</td>
-    <td>• **Core SW Development** for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing.</td>
-  </tr>
-</tbody>
-</table>
+  <table width="850">
+    <thead>
+      <tr>
+        <th width="180">Period</th>
+        <th width="220">Experience</th>
+        <th>Key Activities</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>2020.03</b></td>
+        <td><b>University Admission</b></td>
+        <td>• B.S. in Computer Engineering.</td>
+      </tr>
+      <tr>
+        <td align="center"><b>2023.11 - 2024.07</b></td>
+        <td><b>Backend Bootcamp</b><br>@ Zero-Base</td>
+        <td>• <b>Real-time Parking Information</b> service.<br>• <b>Store Table Reservation</b> system.<br>• <b>Location-based Public Wi-Fi</b> information service.<br>• One-day Class Platform.</td>
+      </tr>
+      <tr>
+        <td align="center"><b>2024.12 - 2026.03</b></td>
+        <td><b>White-Hat Hacking & Security Club</b><br>@ MJSEC</td>
+        <td>• <b>Backend Mentor</b> for the development team.<br>• <b>CTF Platform</b> development.<br>• <b>LMS for Assignment Management</b> development.<br>• In-depth studies on <b>Web Hacking</b> & <b>Reverse Engineering</b>.</td>
+      </tr>
+      <tr>
+        <td align="center"><b>2025.04 - 2026.02</b></td>
+        <td><b>Researcher</b><br>@ Defense Security Lab</td>
+        <td>• Paper on <b>MCP Vulnerabilities</b>: Published & Presented at <b>The Korean Institute of Defense Technology</b>.<br>• <b>LIG Nex1 Project</b>: Anti-Tampering impact verification on weapon systems.<br>• <b>CMMC Compliance Tool</b> for security certification.</td>
+      </tr>
+      <tr>
+        <td align="center"><b>2026.03 - Present</b></td>
+        <td><b>Software Engineer Intern</b><br>@ Melcon (Semiconductor)</td>
+        <td>• <b>Core SW Development</b> for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing.</td>
+      </tr>
+    </tbody>
+  </table>
 
 </div>
