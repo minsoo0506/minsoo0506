@@ -1,12 +1,11 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="600" height="400" alt="Pixel Art Header" />
+  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="800" height="500" alt="Pixel Art Header" />
 
-  <br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=500&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
 
-  <br><br>
+  <br>
 
   <table width="900">
     <thead>
