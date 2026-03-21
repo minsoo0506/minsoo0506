@@ -63,12 +63,24 @@
 
   <br>
 
-  <h3>📝 Algorithm</h3>
-  <a href="https://solved.ac/mspark010506">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506" alt="Solved.ac Profile" />
-  </a>
-
-  <br><br>
+<br><br>
+  <table width="850" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>📊 GitHub Stats</h3>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=minsoo0506&show_icons=true&theme=transparent" alt="Minsoo's GitHub stats" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>📝 Algorithm</h3>
+        <a href="https://solved.ac/mspark010506">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506" alt="Solved.ac Profile" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
 
   <h3>🧑‍💻 Philosophy: Engineering with Curiosity</h3>
   <p><strong><font size="5">"Driven by Logic, Guided by 'Why?'"</font></strong></p>
