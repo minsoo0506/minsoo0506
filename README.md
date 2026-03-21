@@ -6,16 +6,6 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="850" />
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7A9A0&center=true&vCenter=true&width=850&lines=Driven+by+Logic%2C+Inspired+by+Future)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
 ### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -83,7 +73,13 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7A9A0&center=true&vCenter=true&width=850&lines=Driven+by+Logic%2C+Inspired+by+Future)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="850" />
+
+</div>
 
 
 
