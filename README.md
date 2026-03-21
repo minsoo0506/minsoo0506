@@ -51,14 +51,19 @@
 
 </div>
 
-### My development process is driven by a relentless curiosity about how things work under the hood.
+### 🧑‍💻 Philosophy: Engineering with Curiosity
 
 <p align="center">
-  <font size="4">
-    By asking <strong>"Why?"</strong> at every step, I identify potential security vulnerabilities and performance bottlenecks before they even occur.<br>
-    I don't just write code; I engineer trust by understanding the fundamental "Why" behind every line.
-  </font>
+  <font size="5"><strong>"Driven by Logic, Guided by 'Why?'"</strong></font>
 </p>
+
+> My development process is deeply rooted in a **relentless curiosity** about the internal mechanics of systems. I believe that high-quality backend engineering isn't just about making things work—it's about understanding precisely *how* and *why* they work under the hood. 
+> 
+> By consistently questioning standard implementations, I actively identify potential **security vulnerabilities** and **performance bottlenecks** in the architectural stage, before they can ever manifest in production. For me, coding is more than just implementing features; it is an act of **engineering trust** and reliability through a fundamental grasp of every logic gate and data flow.
+> 
+> Whether I am optimizing a database query or hardening an authentication protocol, my goal remains the same: to build digital backbones that are as **secure as they are scalable**, fueled by a passion for technical depth and logical perfection.
+
+<br>
 
 ### 🗓️ Career Timeline & Experience
 
