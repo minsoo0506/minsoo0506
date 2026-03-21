@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="600" />
+<img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="850" />
 
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7A9A0&center=true&vCenter=true&width=850&lines=Driven+by+Logic%2C+Inspired+by+Future)](https://git.io/typing-svg)
 
