@@ -1,6 +1,6 @@
 <div align="center">
 
-![2825710](https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4)
+<img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="600" />
 
 <br>
 
@@ -72,7 +72,7 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&width=850&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 
 
