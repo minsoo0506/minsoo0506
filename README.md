@@ -1,42 +1,70 @@
-![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/user-attachments/assets/d5a62004-0237-4c42-baa0-026f5bced001)
-
 <div align="center">
-  
+
   <img src="https://github.com/user-attachments/assets/31a40bf9-570e-4934-8eae-841bb72b94b4" width="600" alt="Pixel Art Header" />
-  
+
   <br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=24&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=600&height=50&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=32&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=600&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
+
   <br><br>
-  
+
   <table width="600">
-    <tr>
-      <td width="50%" valign="top" align="center">
-        <strong>🛠️ Tech Stack</strong>
-        <br><br>
-        <img src="https://img.shields.io/badge/java-EE2C2?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br>
-        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" /><br>
-        <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="SpringSecurity" /><br>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br>
-        <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /><br>
-        <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br>
-        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br>
-        <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-      </td>
-      <td width="50%" valign="top" align="center">
-        <strong>📚 Studying</strong>
-        <br><br>
-        <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br>
-        <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" /><br>
-        <img src="https://img.shields.io/badge/msa-E10098?style=for-the-badge&logo=microservices&logoColor=white" alt="MSA" /><br>
-        <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-      </td>
-    </tr>
+    <thead>
+      <tr>
+        <th colspan="2">🛠️ Technical Skills & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td width="30%" align="center"><strong>Languages</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>Frameworks</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+          <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>Databases</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>Tools</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>Infrastructure & ETC</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+        </td>
+      </tr>
+    </tbody>
   </table>
 
 </div>
 <br>
+
+<div align="center">
 
 ### 📝 Algorithm
 
