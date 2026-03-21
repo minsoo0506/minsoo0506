@@ -1,8 +1,5 @@
-<div align="center">
+![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/user-attachments/assets/d5a62004-0237-4c42-baa0-026f5bced001)
 
-![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/1d627a87-3d6d-41f4-9fb6-70d8f4317492)
-
-</div>
 
 <div align="center">
 
