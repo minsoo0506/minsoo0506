@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="500" alt="New Pixel Art Header" />
+  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="400" height="400" alt="Pixel Art Header" />
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=36&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=500&height=80&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=500&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
 
   <br><br>
 
-  <table width="800">
+  <table width="900">
     <thead>
       <tr>
         <th colspan="2" height="40">🛠️ Technical Skills & Tools</th>
@@ -16,7 +16,7 @@
     </thead>
     <tbody>
       <tr>
-        <td width="200" align="center" height="50"><strong>Languages</strong></td>
+        <td width="220" align="center" height="50"><strong>Languages</strong></td>
         <td>
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -55,7 +55,15 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
           <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-          <img src="
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<br><br>
 
 <div align="center">
 
@@ -63,9 +71,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506)](https://solved.ac/mspark010506/)
 
-</div>
-
-<div align="center">
+<br><br>
 
 ### 🧑‍💻 Philosophy: Engineering with Curiosity
 
@@ -79,22 +85,48 @@
 > 
 > Whether I am optimizing a database query or hardening an authentication protocol, my goal remains the same: to build digital backbones that are as **secure as they are scalable**, fueled by a passion for technical depth and logical perfection.
 
-<br>
-
-</div>
-
-<div align="center">
+<br><br>
 
 ### 🗓️ Career Timeline & Experience
 
-| Period | Experience | Key Activities |
-|:--- |:--- |:--- |
-| **2020.03** | **University Admission** | • B.S. in Computer Engineering. |
-| **2023.11 - 2024.07** | **Backend Bootcamp**<br>@ Zero-Base | • **Real-time Parking Information** service.<br>• **Store Table Reservation** system.<br>• **Location-based Public Wi-Fi** information service.<br>• One-day Class Platform. |
-| **2024.12 - 2026.03** | **White-Hat Hacking & Security Club**<br>@ MJSEC | • **Backend Mentor** for the development team.<br>• **CTF Platform** development.<br>• **LMS for Assignment Management** development.<br>• In-depth studies on **Web Hacking** & **Reverse Engineering**. |
-| **2025.04 - 2026.02** | **Researcher**<br>@ Defense Security Lab | • Paper on **MCP Vulnerabilities**: Published & Presented at **The Korean Institute of Defense Technology**.<br>• **LIG Nex1 Project**: Anti-Tampering impact verification on weapon systems.<br>• **CMMC Compliance Tool** for security certification. |
-| **2026.03 - Present** | **Software Engineer Intern**<br>@ Melcon (Semiconductor) | • **Core SW Development** for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing. |
+<table width="900">
+<thead>
+  <tr>
+    <th width="200">Period</th>
+    <th width="250">Experience</th>
+    <th>Key Activities</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><strong>2020.03</strong></td>
+    <td><strong>University Admission</strong></td>
+    <td>• B.S. in Computer Engineering.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2023.11 - 2024.07</strong></td>
+    <td><strong>Backend Bootcamp</strong><br>@ Zero-Base</td>
+    <td>• **Real-time Parking Information** service.<br>• **Store Table Reservation** system.<br>• **Location-based Public Wi-Fi** information service.<br>• One-day Class Platform.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2024.12 - 2026.03</strong></td>
+    <td><strong>White-Hat Hacking & Security Club</strong><br>@ MJSEC</td>
+    <td>• **Backend Mentor** for the development team.<br>• **CTF Platform** development.<br>• **LMS for Assignment Management** development.<br>• In-depth studies on **Web Hacking** & **Reverse Engineering**.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2025.04 - 2026.02</strong></td>
+    <td><strong>Researcher</strong><br>@ Defense Security Lab</td>
+    <td>• Paper on **MCP Vulnerabilities**: Published & Presented at **The Korean Institute of Defense Technology**.<br>• **LIG Nex1 Project**: Anti-Tampering impact verification on weapon systems.<br>• **CMMC Compliance Tool** for security certification.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2026.03 - Present</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2026.03 - Present</strong></td>
+    <td><strong>Software Engineer Intern</strong><br>@ Melcon (Semiconductor)</td>
+    <td>• **Core SW Development** for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing.</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
-
-
