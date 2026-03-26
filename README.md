@@ -151,5 +151,10 @@
   <a href="https://www.instagram.com/xoreax_eax">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mspark010506@gmail.com)
+  <div align="center">
+  <a href="mailto:mspark010506@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+  <p><b>Contact:</b> mspark010506@gmail.com</p>
+</div>
 </div>
