@@ -1,6 +1,5 @@
 <div align="center">
-
-  <img src="https://github.com/user-attachments/assets/caa25102-0250-4d18-80cd-616b7fd9eccb" width="850" height="500" alt="Pixel Art Header" />
+  <img src="https://github.com/user-attachments/assets/b6437719-8d09-4e6a-a57b-7c242f598638" width="850" height="500" alt="Pixel Art Header" />
 
   <br><br>
 
