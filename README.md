@@ -3,7 +3,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=600&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=800&height=90&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
 
   <br>
 
