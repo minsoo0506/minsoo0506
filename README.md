@@ -79,23 +79,6 @@
   </table>
   <br>
 
-  <h3>🧑‍💻 Philosophy: Engineering with Curiosity</h3>
-  <p><strong><font size="5">"Driven by Logic, Guided by 'Why?'"</font></strong></p>
-
-  <table width="800" border="0">
-    <tr>
-      <td>
-        <blockquote>
-          My development process is deeply rooted in a <b>relentless curiosity</b> about the internal mechanics of systems. I believe that high-quality backend engineering isn't just about making things work—it's about understanding precisely <i>how</i> and <i>why</i> they work under the hood.<br><br>
-          By consistently questioning standard implementations, I actively identify potential <b>security vulnerabilities</b> and <b>performance bottlenecks</b> in the architectural stage, before they can ever manifest in production. For me, coding is more than just implementing features; it is an act of <b>engineering trust</b> and reliability through a fundamental grasp of every logic gate and data flow.<br><br>
-          Whether I am optimizing a database query or hardening an authentication protocol, my goal remains the same: to build digital backbones that are as <b>secure as they are scalable</b>, fueled by a passion for technical depth and logical perfection.
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-
-  <br><br>
-
   <h3>🗓️ Career Timeline & Experience</h3>
 
   <table width="850">
