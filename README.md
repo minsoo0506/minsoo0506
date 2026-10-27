@@ -112,8 +112,11 @@
       </tr>
       <tr>
         <td align="center"><b>2026.03 - Present</b></td>
-        <td><b>Software Engineer Intern</b><br>@ Melcon (Semiconductor)</td>
-        <td>• <b>Core SW Development</b> for Semiconductor systems.<br>• Hands-on industry experience in semiconductor manufacturing.</td>
+        <td><b>Firmware Engineer Intern</b><br>@ Melcon (Semiconductor)</td>
+        <td>• <b>Implemented robust Firmware</b> by analyzing hardware schematics and communication specifications for precision semiconductor systems.<br>
+        • <b>Designed modular UART/USART serial communication stacks</b>, translating hardware protocol blueprints into reliable software initialization and data pipelines.<br>
+        • <b>Interpreted circuit diagrams</b> to configure GPIO and peripheral controls, ensuring precise timing and fail-safe digital output signal logic.</td>
+
       </tr>
     </tbody>
   </table>
