@@ -8,6 +8,7 @@
   <br>
 
 <h3 align="center">🛠️ Technical Skills & Tools</h3>
+
 <table width="800">
   <tbody>
     <tr>
