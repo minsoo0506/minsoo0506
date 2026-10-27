@@ -117,7 +117,6 @@
         <td>• <b>Implemented robust Firmware</b> by analyzing hardware schematics and communication specifications for precision semiconductor systems.<br>
         • <b>Designed modular UART/USART serial communication stacks</b>, translating hardware protocol blueprints into reliable software initialization and data pipelines.<br>
         • <b>Interpreted circuit diagrams</b> to configure GPIO and peripheral controls, ensuring precise timing and fail-safe digital output signal logic.</td>
-
       </tr>
     </tbody>
   </table>
