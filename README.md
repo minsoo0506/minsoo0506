@@ -1,138 +1,85 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b6437719-8d09-4e6a-a57b-7c242f598638" width="800" height="500" alt="Pixel Art Header" />
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=800&size=30&duration=4000&pause=1000&color=40C463&center=true&vCenter=false&width=800&height=70&lines=Driven+by+Logic,+Inspired+by+Future" alt="Typing SVG" />
-
-  <br>
-
-<h3 align="center">🛠️ Technical Skills & Tools</h3>
-
-<table width="800">
-  <tbody>
-    <tr>
-      <td width="150" align="center" height="45"><strong>Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="45"><strong>Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="45"><strong>Databases</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="45"><strong>Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="45"><strong>Infra & Cloud</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-  <table width="850" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>📊 GitHub Stats</h3>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=minsoo0506&show_icons=true&theme=transparent" alt="Minsoo's GitHub stats" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>📝 Algorithm</h3>
-        <a href="https://solved.ac/mspark010506">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mspark010506" alt="Solved.ac Profile" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br>
-
-  <h3>🗓️ Career Timeline & Experience</h3>
-
-  <table width="850">
-    <thead>
-      <tr>
-        <th width="180">Period</th>
-        <th width="220">Experience</th>
-        <th>Key Activities</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b>2020.03</b></td>
-        <td><b>University Admission</b></td>
-        <td>• B.S. in Computer Engineering.</td>
-      </tr>
-      <tr>
-        <td align="center"><b>2023.11 - 2024.07</b></td>
-        <td><b>Backend Bootcamp</b><br>@ Zero-Base</td>
-        <td>• <b>Real-time Parking Information</b> service.<br>• <b>Store Table Reservation</b> system.<br>• <b>Location-based Public Wi-Fi</b> information service.<br>• One-day Class Platform.</td>
-      </tr>
-      <tr>
-        <td align="center"><b>2024.12 - 2026.03</b></td>
-        <td><b>White-Hat Hacking & Security Club</b><br>@ MJSEC</td>
-        <td>• <b>Backend Mentor</b> for the development team.<br>• <b>CTF Platform</b> development.<br>• <b>LMS for Assignment Management</b> development.<br>• In-depth studies on <b>Web Hacking</b> & <b>Reverse Engineering</b>.</td>
-      </tr>
-      <tr>
-        <td align="center"><b>2025.04 - 2026.02</b></td>
-        <td><b>Researcher</b><br>@ Defense Security Lab</td>
-        <td>• Paper on <b>MCP Vulnerabilities</b>: Published & Presented at <b>The Korean Institute of Defense Technology</b>.<br>• <b>LIG Nex1 Project</b>: Anti-Tampering impact verification on weapon systems.<br>• <b>CMMC Compliance Tool</b> for security certification.</td>
-      </tr>
-      <tr>
-        <td align="center"><b>2026.03 - Present</b></td>
-        <td><b>Embedded Software Engineer Intern</b><br>@ Melcon (Semiconductor)</td>
-        <td>• <b>Implemented robust Firmware</b> by analyzing hardware schematics and communication specifications for precision semiconductor systems.<br>
-        • <b>Designed modular UART/USART serial communication stacks</b>, translating hardware protocol blueprints into reliable software initialization and data pipelines.<br>
-        • <b>Interpreted circuit diagrams</b> to configure GPIO and peripheral controls, ensuring precise timing and fail-safe digital output signal logic.</td>
-      </tr>
-    </tbody>
-  </table>
-
+<img src="./assets/terminal-bar.svg" width="100%" alt="minsoo@dev: ~/profile" /><br />
+<img src="./assets/workspace.gif" width="100%" alt="Animated pixel art of a developer's workspace overlooking a city at night" /><br />
+<img src="./assets/identity.svg" width="100%" alt="Minsoo Park — Embedded Software Engineer" />
 </div>
 
-<br>
-<h2 align="center">🖼️ Archives </h2>
+<h2>👋 About</h2>
+
+I began with backend development, building APIs and services for projects such as reservation systems and CTF platforms. That work gave me a foundation in application logic, data handling, and communication between software components. Over time, I became more interested in how software interacts with the hardware beneath it.
+
+Security research added another perspective. At the Defense Security Lab, I worked on vulnerability research and the evaluation of anti-tampering measures for weapon systems. Alongside my studies in reverse engineering, this encouraged me to look beyond application features and pay closer attention to how systems behave internally.
+
+My firmware work at Melcon gave that interest a practical direction. Reading schematics, implementing UART/USART communication, and configuring GPIO and peripherals connected software development with the behavior of semiconductor equipment. I want to build on this experience as an **embedded software engineer**, with a focus on equipment control and an interest in defense systems and drones.
+
+<h2>🛠️ Technical Skills</h2>
+
+**Languages**  
+<img src="https://img.shields.io/badge/C-101823?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-101823?style=flat-square&amp;logo=cplusplus&amp;logoColor=93C5FD" alt="C++" />
+<img src="https://img.shields.io/badge/Python-101823?style=flat-square&amp;logo=python&amp;logoColor=F7CF6B" alt="Python" />
+<img src="https://img.shields.io/badge/Java-101823?style=flat-square&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" />
+
+**Embedded Systems**  
+<img src="https://img.shields.io/badge/UART_%2F_USART-101823?style=flat-square" alt="UART / USART" />
+<img src="https://img.shields.io/badge/GPIO-101823?style=flat-square" alt="GPIO" />
+<img src="https://img.shields.io/badge/Peripheral_Configuration-101823?style=flat-square" alt="Peripheral Configuration" />
+<img src="https://img.shields.io/badge/Schematic_Reading-101823?style=flat-square" alt="Schematic Reading" />
+
+**Security**  
+<img src="https://img.shields.io/badge/Vulnerability_Research-101823?style=flat-square" alt="Vulnerability Research" />
+<img src="https://img.shields.io/badge/Reverse_Engineering_Studies-101823?style=flat-square" alt="Reverse Engineering Studies" />
+
+**Other Frameworks**  
+<img src="https://img.shields.io/badge/Spring_Boot-101823?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring_Security-101823?style=flat-square&amp;logo=springsecurity&amp;logoColor=6DB33F" alt="Spring Security" />
+<img src="https://img.shields.io/badge/FastAPI-101823?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
+
+**Databases & Tools**  
+<img src="https://img.shields.io/badge/MySQL-101823?style=flat-square&amp;logo=mysql&amp;logoColor=75B5D9" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-101823?style=flat-square&amp;logo=postgresql&amp;logoColor=8AB5E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-101823?style=flat-square&amp;logo=redis&amp;logoColor=FF6262" alt="Redis" />
+<img src="https://img.shields.io/badge/Git-101823?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-101823?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+
+<h2>💼 Experience</h2>
+
+### Melcon
+**Embedded Software Engineer Intern** · Mar 2026 – Present
+
+- Develop firmware for semiconductor equipment based on hardware schematics and communication specifications.
+- Implement UART/USART initialization and data handling, and configure GPIO and peripherals.
+
+### Defense Security Lab
+**Researcher** · Apr 2025 – Feb 2026
+
+- Evaluated the impact of anti-tampering measures on weapon systems as part of a LIG Nex1 project.
+- Conducted MCP vulnerability research; published and presented the findings at the Korean Institute of Defense Technology.
+- Contributed to the development of a CMMC compliance tool.
+
+### MJSEC
+**Backend Mentor · Security Club Member** · Dec 2024 – Mar 2026
+
+- Mentored backend developers and contributed to CTF and assignment-management platforms.
+- Studied web security and reverse engineering.
+
+<details>
+<summary><strong>Education & Training</strong></summary>
+
+**Zero-Base · Backend Development Bootcamp**  
+Nov 2023 – Jul 2024  
+Projects included parking information, table reservations, public Wi-Fi information, and a one-day class platform.
+
+**Computer Engineering**  
+Began university studies in Mar 2020.
+
+</details>
+
 <div align="center">
-  <a href="https://velog.io/@mspark010506">
-    <img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=velog&logoColor=white">
-  </a>
-  <a href="https://ms-park-0506.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/xoreax_eax">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
+
+<h2 align="center">✉️ Contact</h2>
+
+<a href="mailto:mspark010506@gmail.com"><img src="https://img.shields.io/badge/mspark010506%40gmail.com-101823?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="mspark010506@gmail.com" /></a>
+<a href="https://www.instagram.com/xoreax_eax/"><img src="https://img.shields.io/badge/%40xoreax_eax-101823?style=for-the-badge&amp;logo=instagram&amp;logoColor=FF79B0" alt="@xoreax_eax" /></a>
+
 </div>
