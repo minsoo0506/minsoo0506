@@ -6,7 +6,7 @@
 
 <h2>👋 About</h2>
 
-I started in **backend development**, building APIs and services, then explored vulnerability research and weapon-system anti-tampering at the **Defense Security Lab**.
+I started in **backend development**, building APIs and services. I explored vulnerability research in **MJSEC**, a security club, and weapon-system anti-tampering at the **Defense Security Lab**.
 
 At **Melcon**, I develop firmware for semiconductor equipment, working with schematics, UART/USART communication, and GPIO and peripheral control.
 
