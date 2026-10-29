@@ -6,11 +6,11 @@
 
 <h2>👋 About</h2>
 
-I began with backend development, building APIs and services for projects such as reservation systems and CTF platforms. That work gave me a foundation in application logic, data handling, and communication between software components. Over time, I became more interested in how software interacts with the hardware beneath it.
+I started in **backend development**, building APIs and services, then explored vulnerability research and weapon-system anti-tampering at the **Defense Security Lab**.
 
-Security research added another perspective. At the Defense Security Lab, I worked on vulnerability research and the evaluation of anti-tampering measures for weapon systems. Alongside my studies in reverse engineering, this encouraged me to look beyond application features and pay closer attention to how systems behave internally.
+At **Melcon**, I develop firmware for semiconductor equipment, working with schematics, UART/USART communication, and GPIO and peripheral control.
 
-My firmware work at Melcon gave that interest a practical direction. Reading schematics, implementing UART/USART communication, and configuring GPIO and peripherals connected software development with the behavior of semiconductor equipment. I want to build on this experience as an **embedded software engineer**, with a focus on equipment control and an interest in defense systems and drones.
+I’m growing as an **embedded software engineer**, focused on equipment control and interested in defense systems and drones.
 
 <h2>🛠️ Technical Skills</h2>
 
@@ -23,7 +23,7 @@ My firmware work at Melcon gave that interest a practical direction. Reading sch
 **Embedded Systems**  
 <img src="https://img.shields.io/badge/UART_%2F_USART-101823?style=flat-square" alt="UART / USART" />
 <img src="https://img.shields.io/badge/GPIO-101823?style=flat-square" alt="GPIO" />
-<img src="https://img.shields.io/badge/Peripheral_Configuration-101823?style=flat-square" alt="Peripheral Configuration" />
+<img src="https://img.shields.io/badge/Peripheral_Control-101823?style=flat-square" alt="Peripheral Control" />
 <img src="https://img.shields.io/badge/Schematic_Reading-101823?style=flat-square" alt="Schematic Reading" />
 
 **Security**  
@@ -32,13 +32,19 @@ My firmware work at Melcon gave that interest a practical direction. Reading sch
 
 **Other Frameworks**  
 <img src="https://img.shields.io/badge/Spring_Boot-101823?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Security-101823?style=flat-square&amp;logo=springsecurity&amp;logoColor=6DB33F" alt="Spring Security" />
 <img src="https://img.shields.io/badge/FastAPI-101823?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
 
-**Databases & Tools**  
+**Databases**
+
 <img src="https://img.shields.io/badge/MySQL-101823?style=flat-square&amp;logo=mysql&amp;logoColor=75B5D9" alt="MySQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-101823?style=flat-square&amp;logo=postgresql&amp;logoColor=8AB5E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Redis-101823?style=flat-square&amp;logo=redis&amp;logoColor=FF6262" alt="Redis" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Visual_Studio-101823?style=flat-square" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Keil_%C2%B5Vision-101823?style=flat-square" alt="Keil µVision" />
+<img src="https://img.shields.io/badge/STM32CubeIDE-101823?style=flat-square" alt="STM32CubeIDE" />
 <img src="https://img.shields.io/badge/Git-101823?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
 <img src="https://img.shields.io/badge/Docker-101823?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
 
