@@ -34,19 +34,11 @@ I’m growing as an **embedded software engineer**, focused on equipment control
 <img src="https://img.shields.io/badge/Spring_Boot-101823?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/FastAPI-101823?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
 
-**Databases**
+**Databases**<br />
+<img src="https://img.shields.io/badge/MySQL-101823?style=flat-square&amp;logo=mysql&amp;logoColor=75B5D9" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-101823?style=flat-square&amp;logo=postgresql&amp;logoColor=8AB5E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-101823?style=flat-square&amp;logo=redis&amp;logoColor=FF6262" alt="Redis" />
 
-<img src="https://img.shields.io/badge/MySQL-101823?style=flat-square&amp;logo=mysql&amp;logoColor=75B5D9" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-101823?style=flat-square&amp;logo=postgresql&amp;logoColor=8AB5E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-101823?style=flat-square&amp;logo=redis&amp;logoColor=FF6262" alt="Redis" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Visual_Studio-101823?style=flat-square" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/Keil_%C2%B5Vision-101823?style=flat-square" alt="Keil µVision" />
-<img src="https://img.shields.io/badge/STM32CubeIDE-101823?style=flat-square" alt="STM32CubeIDE" />
-<img src="https://img.shields.io/badge/Git-101823?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-101823?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+**Tools**<br />
+<img src="https://img.shields.io/badge/Visual_Studio-101823?style=flat-square" alt="Visual Studio" /> <img src="https://img.shields.io/badge/Keil_%C2%B5Vision-101823?style=flat-square" alt="Keil µVision" /> <img src="https://img.shields.io/badge/STM32CubeIDE-101823?style=flat-square" alt="STM32CubeIDE" /> <img src="https://img.shields.io/badge/Git-101823?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/Docker-101823?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
 
 <h2>💼 Experience</h2>
 
